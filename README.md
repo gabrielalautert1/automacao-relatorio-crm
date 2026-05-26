@@ -11,7 +11,7 @@ Script Python que automatiza a reorganização e formatação de relatórios exp
 - Exibe resumo dos leads ativos com campo personalizado
 - Gera um novo Excel formatado com cores por status e data no nome do arquivo
 
-## Tecnologias Usadas
+##Tecnologias Usadas
 
 - Python
 - Pandas
